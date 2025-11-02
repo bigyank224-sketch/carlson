@@ -1,0 +1,59 @@
+
+* {
+   box-sizing: content-box;
+   margin: 0;
+   padding: 0;
+}
+body{
+   background-repeat: no-repeat;
+   background-position: center;
+    background-size: cover; 
+    background-attachment: fixed;
+}
+
+nav{
+    
+    border: 1px solid rgb(202, 178, 132);
+    padding: 20px; 
+    background:#dad728;
+}
+
+.logo-container{
+   text-align: center;
+   padding: 10px 0;
+}
+    .logo-img{
+   width: 300px;
+   display: block;
+   text-align: center;}
+   
+   
+   .abt img{
+      width: 300px;
+
+   }
+   img{
+      width: 300px;
+      padding: 20px 0;
+   }
+
+
+
+
+ .webpage {
+    background: radial-gradient(darkcyan)
+ }
+ .webpage{
+    background-color: rebeccapurple;
+ }
+  
+ web {
+    background-color: aqua;
+ }
+ .webpage{
+   background: lightskyblue;
+ }
+ .webpage{
+   background: lightseagreen;
+ }
+
